@@ -3,7 +3,7 @@
 #include <ESP8266WiFi.h>
 #include<FirebaseArduino.h>
 #define FIREBASE_HOST "home-automation-87ce1.firebaseio.com"                     
-#define FIREBASE_AUTH "rg7Wze5SLZT2ymGGssWkf8vgtWITMpIwomOp8j4m"       
+#define FIREBASE_AUTH " "       
 #define WIFI_SSID "sera"                                              
 #define WIFI_PASSWORD "12345678"                                       
 
