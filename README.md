@@ -15,9 +15,12 @@
  
  Software Used
  
- EasyEDA - to design my PCB and to obtain gerber file
- Google Firebase
+ EasyEDA - to design my PCB and to obtain gerber file      
+  
+  Google Firebase
+ 
  Arduino IDE to upload its code into NODEMCU
+ 
  MIT app inventor -to control the devices from the app
  
  
