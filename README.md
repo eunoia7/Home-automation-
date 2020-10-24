@@ -10,7 +10,7 @@
  
  <li> BC547 transistor </li>
  
- <li> diode IN4007 </li>
+ <li> Diode IN4007 </li>
  
  <li> Female Headers </li>
  
@@ -20,7 +20,7 @@
  
  <li> connector </li>
  
- <li> ic 7805 regulator </li>
+ <li> IC 7805 regulator </li>
  </ol>
  
  ## Software Used
