@@ -1,35 +1,33 @@
- Home-automation
+# Home-automation
  
- Materials Required
+ ## Materials Required
+ <ol>
+ <li> Self designed PCB board (using EasyEDA) </li>
  
- 1)Self designed PCB board (using EasyEDA)
+ <li> NODE MCU 12E </li>
  
- 2)NODE MCU 12E
+ <li> 4 relays </li>
  
- 3)4 relays
+ <li> BC547 transistor </li>
  
- 4)BC547 transistor
+ <li> diode IN4007 </li>
  
- 5)diode IN4007
+ <li> Female Headers </li>
  
- 6)Female Headers
+ <li> DC barrel jack </li>
  
- 7)DC barrel jack
+ <li> 330 ohm resistors </li>
  
- 8)330 ohm resistors
+ <li> connector </li>
  
- 9)connector
+ <li> ic 7805 regulator </li>
+ </ol>
  
- 10) ic 7805 regulator
- 
- Software Used
- 
- EasyEDA - to design my PCB and to obtain gerber file      
+ ## Software Used
+ - EasyEDA - to design my PCB and to obtain gerber file      
   
-  Google Firebase
+ - Google Firebase
  
- Arduino IDE to upload its code into NODEMCU
+ - Arduino IDE to upload its code into NODEMCU
  
- MIT app inventor -to control the devices from the app
- 
- 
+ - MIT app inventor -to control the devices from the app
